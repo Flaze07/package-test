@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.flaze07.AppTest" time="0.029" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\programming\NonProject\Java\package-test\target\test-classes;D:\programming\NonProject\Java\package-test\target\classes;C:\Users\Flaze07\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Flaze07\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Bangkok"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="D:\programming_lib\java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\Flaze07\AppData\Local\Temp\surefire11966517765954877936\surefirebooter8051259736216437163.jar C:\Users\Flaze07\AppData\Local\Temp\surefire11966517765954877936 2024-08-09T14-32-12_941-jvmRun1 surefire9211781471186989683tmp surefire_02313768988979947497tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\programming\NonProject\Java\package-test\target\test-classes;D:\programming\NonProject\Java\package-test\target\classes;C:\Users\Flaze07\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Flaze07\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Flaze07"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="D:\programming_lib\java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\programming\NonProject\Java\package-test"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Flaze07\AppData\Local\Temp\surefire11966517765954877936\surefirebooter8051259736216437163.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.10+11-LTS-240"/>
+    <property name="user.name" value="Flaze07"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Flaze07\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Flaze07\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="user.dir" value="D:\programming\NonProject\Java\package-test"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="D:\programming_lib\java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\programming_app\Git\cmd;C:\Program Files\dotnet\;D:\programming_app\Sublime Merge;D:\Application\CLI;D:\programming_app\dbeaver;D:\Application\Lorien_v0.6.0_Windows;C:\Users\Flaze07\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Fork;;D:\programming_lib\Android\Sdk\platform-tools;D:\programming_lib\java\jdk-17\bin;D:\programming_lib\flutter\bin;D:\programming_app\Sublime Text;D:\programming_lib\apache-maven-3.9.7\bin;;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\SlikSvn\bin;D:\programming_lib\Go\bin;D:\programming_app\postman;D:\Application\Aseprite 1.2.39;C:\Program Files\Neovim\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Flaze07\.pyenv\pyenv-win\bin;C:\Users\Flaze07\.pyenv\pyenv-win\shims;C:\Users\Flaze07\AppData\Local\pnpm;C:\Users\Flaze07\AppData\Local\Microsoft\WindowsApps;D:\programming_app\Microsoft VS Code\bin;C:\Users\Flaze07\.dotnet\tools;C:\Users\Flaze07\AppData\Local\GitHubDesktop\bin;C:\Users\Flaze07\go\bin;C:\Users\Flaze07\.deno\bin;C:\Users\Flaze07\.dotnet\tools;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.10+11-LTS-240"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.github.flaze07.AppTest" time="0.002"/>
+</testsuite>
